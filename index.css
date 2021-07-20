@@ -1,0 +1,30 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#tour {
+    width: 100vw;
+    height: 100vh;
+}
+
+.not_supported_container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    padding: 20px;
+}
+
+.not_supported_container h1 {
+    text-align: center;
+}
+
+.none {
+    display: none;
+}
+
+.main_text {
+    color: red;
+}
